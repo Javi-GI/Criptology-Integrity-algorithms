@@ -1,0 +1,111 @@
+Pruebas para Hash: 13
+Texto 1
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 10011010011110110101110011100000 e Ilicito: 00111111100111111110000010000000 con hash: 89f50fabcac59 en tiempo: 3301.0017934637144
+Texto 2
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Texto 2 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 10100001101010101000110100000000 e Ilicito: 01101010110101100111011101111000 con hash: 8021260068024 en tiempo: 7549.186983728781
+Texto 3
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Texto 2 de tamaño total 27
+Textos Ilicitos Generados: 27
+Texto 3 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 10100001101010010010001111000000 e Ilicito: 10111101011000001111011100110000 con hash: 64df93a61a45b en tiempo: 11750.838691470213
+Texto 4
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 00101100000100110110000000100000 e Ilicito: 00101111001000011010111101010000 con hash: 95a5ae587a088 en tiempo: 2463.0817839093506
+Texto 5
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Hay coincidencia: Licito: 10011000001110000011010100000000 e Ilicito: 01101001000011010000010101100000 con hash: 85261e67acba1 en tiempo: 1672.8378595225513
+Texto 6
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Hay coincidencia: Licito: 00101101001100110000001110000000 e Ilicito: 00101111001010011000011100000000 con hash: dcbccf5193ed9 en tiempo: 1205.822535790503
+Texto 7
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 00000110101000110111110010000000 e Ilicito: 00111010110100000111001111011000 con hash: cc9aaa2f30851 en tiempo: 2048.2703519444913
+Texto 8
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Hay coincidencia: Licito: 01000111011100110101101001000000 e Ilicito: 01110001100001100100111101000000 con hash: 469b258dcd162 en tiempo: 1274.7272969670594
+Texto 9
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Hay coincidencia: Licito: 01001101000010000101001101000000 e Ilicito: 10000000000110011101101101000000 con hash: a8624534485f4 en tiempo: 3426.8648142758757
+Texto 10
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 00010011100010110101010011100000 e Ilicito: 00101110110000001100100101100000 con hash: 02f8b6f4acdff en tiempo: 2196.049350633286
+Texto 11
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Hay coincidencia: Licito: 01111001100100100010011110000000 e Ilicito: 11100100110010101111001011100000 con hash: 6ef2708669260 en tiempo: 3704.5135793164372
+Texto 12
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Texto 2 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 11100101011110111111110010100000 e Ilicito: 01001101100011100000110110000000 con hash: 60fa957ecf7ce en tiempo: 8356.735703856684
+Texto 13
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Hay coincidencia: Licito: 10001111110110101001111001000000 e Ilicito: 01011110111011100111010110100000 con hash: 677283a783d7c en tiempo: 1667.0997589230537
+Texto 14
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 10110111011100011001111101000000 e Ilicito: 00101000011100111100011101100000 con hash: 8dbe1cad23596 en tiempo: 3671.950306643732
+Texto 15
+Texto 1 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 2 de tamaño total 26
+Textos Ilicitos Generados: 26
+Texto 1 de tamaño total 27
+Textos Ilicitos Generados: 27
+Texto 2 de tamaño total 27
+Textos Ilicitos Generados: 27
+Hay coincidencia: Licito: 00110100100100010011011100000000 e Ilicito: 01101011101011000111101101010000 con hash: b14b78ef93141 en tiempo: 6887.733916155063
